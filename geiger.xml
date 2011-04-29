@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "geiger">
+	<slot number = "1">
+		<pattr name = "gain~" value = "146" />
+		<pattr name = "gain~[10]" value = "141" />
+		<pattr name = "gain~[11]" value = "141" />
+		<pattr name = "gain~[12]" value = "109" />
+		<pattr name = "gain~[13]" value = "109" />
+		<pattr name = "gain~[14]" value = "109" />
+		<pattr name = "gain~[15]" value = "109" />
+		<pattr name = "gain~[16]" value = "124" />
+		<pattr name = "gain~[17]" value = "124" />
+		<pattr name = "gain~[18]" value = "124" />
+		<pattr name = "gain~[19]" value = "124" />
+		<pattr name = "gain~[1]" value = "146" />
+		<pattr name = "gain~[2]" value = "146" />
+		<pattr name = "gain~[3]" value = "146" />
+		<pattr name = "gain~[4]" value = "123" />
+		<pattr name = "gain~[5]" value = "123" />
+		<pattr name = "gain~[6]" value = "122" />
+		<pattr name = "gain~[7]" value = "122" />
+		<pattr name = "gain~[8]" value = "139" />
+		<pattr name = "gain~[9]" value = "139" />
+	</slot>
+</pattrstorage>
+
